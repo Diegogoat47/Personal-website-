@@ -1,0 +1,110 @@
+body {
+  background:lightblue ;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+h5 {
+  justify-content:center;
+  text-align:center;
+}
+
+
+img {
+  height:250px;
+  width: 250px;
+  border-radius:250px;
+}
+
+
+.profile {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+/*link coding*/
+
+.links {
+  justify-content: center;
+  margin: 6px; 
+  text-align: center;
+  display: flex;
+  }
+
+a {
+  text-decoration:none;
+  border-radius:25px;
+  margin:10px;
+}
+
+.about a {
+ background:#FFCD00; 
+  }
+
+.about a:link {
+  color: #FFFFFF;
+}
+
+ a:hover {
+ font-size: 25px; 
+}
+
+.resume a {
+  background: #003087;
+}
+
+.resume a:link {
+  color: #FFFFFF;
+}
+
+.contact a {
+  background:#C8102E;
+}
+
+.contact a:link {
+  color: #FFFFFF;
+}
+
+.about {
+  margin:5px;
+}
+
+.resume {
+  margin:5px;
+ }
+
+.contact {
+  margin:5px;
+}
+
+.one {
+  justify-content:center;
+  text-align:center;
+}
+
+.two {
+  text-align:center; 
+  justify-content:center;
+}
+
+.card {
+margin: 20px;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.three {
+  text-align:center; 
+  justify-content:center;
+}
+
+
